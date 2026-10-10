@@ -35,6 +35,7 @@ Cybersecurity, building practical tools, local AI systems, and slowly diving dee
 - **[aadi-osint-toolkit](https://github.com/DrPhrma/aadi-osint-toolkit)** — Legal & educational OSINT toolkit (public data only)
 - **[AadiOS](https://github.com/DrPhrma/AadiOS)** — My personal portfolio site
 - **[Anvil](https://github.com/DrPhrma/Anvil)** — 19 pure HTML/CSS/JS tools, zero dependencies
+- **[PEPPER](https://github.com/DrPhrma/PEPPER)** — Platform for Extended Public Profile & Entity Research (OSINT)
 
 ---
 
